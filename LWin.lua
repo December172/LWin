@@ -86,7 +86,7 @@ function LWin:PostMsg(hInstance,Msg)
 end
 
 --Windows functions.
-local draw = require("project.drawlib")
+local draw = require("drawlib")
 
 local WindowFunc = {}
 local WndCounter = 0
