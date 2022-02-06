@@ -1,4 +1,4 @@
-LWin = { Version = "1.0.1 Release" }
+LWin = { Version = "1.0.1 Debug" }
 
 --External Libraies.
 local Stack = require("stack")
